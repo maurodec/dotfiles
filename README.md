@@ -1,4 +1,4 @@
-emacs-dotfiles
-==============
+dotfiles
+========
 
-My emacs configuration files.
+My configuration files.
