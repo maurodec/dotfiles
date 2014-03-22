@@ -1,0 +1,11 @@
+[user]
+    name = Mauro de Carvalho
+    email = mauro.dec@gmail.com
+[color]
+    ui = auto
+[core]
+    excludesfile = ~/.gitignore
+[alias]
+    tree = log --pretty='%Cgreen%h%Creset [%ai] %s %Cred<%Creset%an%Cred>' --decorate --graph
+[branch]
+    autosetupmerge = true
