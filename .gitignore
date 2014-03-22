@@ -1,0 +1,11 @@
+# Pesky OS X files.
+.DS_Store
+
+# Misc binary files.
+*.o
+*.pyc
+*.pyo
+
+# Backups
+*.bak
+*~
